@@ -19,12 +19,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> &nbsp;
+</details>
 <div align="center">
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyamg&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
   </a>
 </div>
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70" />
