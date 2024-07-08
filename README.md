@@ -2,6 +2,9 @@
 <img src=https://github.com/jeongahn/jeongahn/assets/54920329/7127f384-c77b-47a6-aaa9-5de4d4d7e983 width=650 height=220>
 </p>
 
+<div align="center">   
+  <h4>Self-Driving Research and Development Club, FOSCAR (2023.12 ~ )</h4>
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=%23000000&height=200&section=header" />
