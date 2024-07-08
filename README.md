@@ -3,6 +3,7 @@
 <div align="center">   
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 </div>
+
 <p align="center">
   <img src="https://github.com/jeongahn/jeongahn/assets/54920329/7127f384-c77b-47a6-aaa9-5de4d4d7e983" width="650" height="220">
 </p>
