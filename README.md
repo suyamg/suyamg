@@ -16,16 +16,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
 </div>
 
-<details align="center">
-  <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />
-  </summary>
-  <br>
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> &nbsp;
-</details>
+</div>
 
 <div align="center">
   <a href="s">
