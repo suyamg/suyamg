@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
-</div>
+
 
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
@@ -12,7 +10,9 @@
   <h4>Self-Driving Research and Development Club, FOSCAR (2023.12 ~ )</h4>
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
+</div>
 <details align="center">
   <summary>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 
