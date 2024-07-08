@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
+</div>
+
+
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 <p align="center">
   <img src="https://github.com/jeongahn/jeongahn/assets/54920329/7127f384-c77b-47a6-aaa9-5de4d4d7e983" width="650" height="220">
@@ -7,9 +12,6 @@
   <h4>Self-Driving Research and Development Club, FOSCAR (2023.12 ~ )</h4>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header" />
-</div>
 
 <details align="center">
   <summary>
