@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/131c3b39-16d0-4910-8136-b24c71db0acf)
-" width="650" height="220">
+  <img src="![image](https://github.com/user-attachments/assets/131c3b39-16d0-4910-8136-b24c71db0acf)" width="650" height="220">
 </p>
 
 <div align="center">   
