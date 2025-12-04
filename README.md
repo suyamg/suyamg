@@ -10,7 +10,6 @@
 
 <div align="center">   
   <h4>Self-Driving Research and Development Club, FOSCAR (2023.12 ~ )</h4>
-  <h4>Visual Computing Lab, Kookmin Univ (2024.08 ~)</h4>
 </div>
 
 <div align="center">
