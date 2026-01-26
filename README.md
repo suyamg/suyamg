@@ -19,7 +19,7 @@
 ---
 <h3 align="center"> 🏆 Awards 🏆 </h3>
 <h5 align="center">  🥇 제7회 국민대학교 자율주행 경진대회 수상 (2024) </h5>
-<h5 align="center">  🥇 HL FMA(Future Mobility Award)  2025 자율주행 경진대회 모라이 시뮬레이션 부문 장려상 수상 (2025) </h5>
+<h5 align="center">  🥇 HL FMA(Future Mobility Award) 자율주행 경진대회 모라이 시뮬레이션 부문 장려상 수상 (2025) </h5>
 
 ---
 
