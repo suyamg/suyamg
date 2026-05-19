@@ -9,7 +9,8 @@
 </p>
 
 <div align="center">   
-  <h4>Self-Driving Research and Development Club, FOSCAR (2023.12 ~ )</h4>
+  <h4>Self-Driving Research and Development Club(FOSCAR) (2023.12 ~ 2027.02)</h4>
+  <h4> Visual Computing Lab(VCL), Kookmin University (2024.06 ~ 2025.12) </h4>
 </div>
 
 <div align="center">
