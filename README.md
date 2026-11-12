@@ -11,7 +11,7 @@
 <div align="center">   
   <h4>Self-Driving Research and Development Club(FOSCAR) (2023.12 ~ 2027.02)</h4>
   <h4> Visual Computing Lab(VCL), Kookmin University (2024.06 ~ 2025.12) </h4>
-  <h4> Computer Vision Lab(CVL), korea University (2025.11 ~ now) </h4>
+  <h4> Computer Vision Lab(CVLab), korea University (2025.11 ~ now) </h4>
 </div>
 
 <div align="center">
